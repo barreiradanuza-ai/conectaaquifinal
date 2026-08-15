@@ -3,7 +3,7 @@ import { ArrowUpRight, Mail, MapPin, Phone } from "lucide-react";
 
 import { EMAIL_CONTATO, TELEFONE_EXIBICAO, TELEFONE_LINK } from "@/config/contato";
 
-const logo = "/images/logo-branca.png";
+const logo = "/images/logo-simbolo-branco.png";
 
 export default function SiteFooter() {
   return (
