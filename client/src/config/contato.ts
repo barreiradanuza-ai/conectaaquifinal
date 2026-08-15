@@ -15,7 +15,7 @@ export const WHATSAPP_EXIBICAO = "(21) 92368-1687";
 export const TELEFONE_LINK = "+5521964037791";
 export const TELEFONE_EXIBICAO = "(21) 96403-7791";
 
-export const EMAIL_CONTATO = "contato@conectaaqui.com.br";
+export const EMAIL_CONTATO = "suporte@conectaaqui.com.br";
 
 /**
  * Monta um link wa.me com a mensagem já preenchida.
