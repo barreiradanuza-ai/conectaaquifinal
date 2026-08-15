@@ -1,7 +1,7 @@
 # Conecta Aqui — site institucional
 
 Site em React + Vite + TypeScript. Projeto **desacoplado da plataforma Manus** e pronto
-para rodar e publicar em qualquer lugar...
+para rodar e publicar em qualquer lugar....
 
 ---
 
