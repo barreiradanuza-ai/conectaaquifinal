@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { ArrowRight, Menu, X } from "lucide-react";
 
-const logo = "/images/logo-branca.png";
+const logo = "/images/logo-simbolo-branco.png";
 
 const navItems = [
   { label: "Início", href: "/" },
