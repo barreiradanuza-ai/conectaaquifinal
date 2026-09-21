@@ -31,14 +31,14 @@ Tudo está centralizado em **`client/src/config/contato.ts`**. Altere ali e muda
 inteiro:
 
 ```ts
-export const WHATSAPP_NUMERO   = "5521923681687";   // 55 + DDD + número, só dígitos
-export const WHATSAPP_EXIBICAO = "(21) 92368-1687"; // como aparece na tela
-export const TELEFONE_LINK     = "+5521923681687";
-export const TELEFONE_EXIBICAO = "(21) 92368-1687";
+export const WHATSAPP_NUMERO   = "5511936231361";   // 55 + DDD + número, só dígitos
+export const WHATSAPP_EXIBICAO = "11 93623-1361"; // como aparece na tela
+export const TELEFONE_LINK     = "+5511936231361";
+export const TELEFONE_EXIBICAO = "11 93623-1361";
 export const EMAIL_CONTATO     = "contato@conectaaqui.com.br";
 ```
 
-Número configurado: **+55 21 92368-1687**, aplicado em todos os pontos:
+Número configurado: **+55 11 93623-1361**, aplicado em todos os pontos:
 
 | Onde | O que faz |
 |---|---|
